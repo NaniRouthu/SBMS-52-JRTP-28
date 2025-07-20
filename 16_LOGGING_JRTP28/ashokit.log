@@ -1,0 +1,80 @@
+2025-07-12 08:46:17,017 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.11 with PID 15932 (C:\SBMS\workspace\16_LOGGING_JRTP28\target\classes started by DHANUNJAY in C:\SBMS\workspace\16_LOGGING_JRTP28)
+2025-07-12 08:46:17,019 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 08:46:17,062 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-12 08:46:17,062 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-12 08:46:17,845 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9090 (http)
+2025-07-12 08:46:17,856 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:46:17,858 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-07-12 08:46:17,859 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-12 08:46:17,905 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-07-12 08:46:17,905 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 842 ms
+2025-07-12 08:46:18,210 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-07-12 08:46:18,223 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:46:18,249 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9090 (http) with context path '/'
+2025-07-12 08:46:18,259 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 1.562 seconds (process running for 2.249)
+2025-07-12 08:46:32,546 [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-12 08:46:32,547 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2025-07-12 08:46:32,547 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 0 ms
+2025-07-12 08:46:32,571 [http-nio-9090-exec-1] INFO  in.ashokit.ContactRestController                   - logger exceution started
+2025-07-12 08:46:32,571 [http-nio-9090-exec-1] INFO  in.ashokit.ContactRestController                   - logger exceution ended
+2025-07-12 08:46:34,201 [http-nio-9090-exec-2] INFO  in.ashokit.ContactRestController                   - logger exceution started
+2025-07-12 08:46:34,201 [http-nio-9090-exec-2] INFO  in.ashokit.ContactRestController                   - logger exceution ended
+2025-07-12 08:46:57,820 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.11 with PID 19864 (C:\SBMS\workspace\16_LOGGING_JRTP28\target\classes started by DHANUNJAY in C:\SBMS\workspace\16_LOGGING_JRTP28)
+2025-07-12 08:46:57,822 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 08:46:57,863 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-12 08:46:57,863 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-12 08:46:58,566 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9090 (http)
+2025-07-12 08:46:58,575 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:46:58,577 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-07-12 08:46:58,577 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-12 08:46:58,617 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-07-12 08:46:58,617 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 754 ms
+2025-07-12 08:46:58,914 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer                 - Unable to start LiveReload server
+2025-07-12 08:46:58,926 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:46:58,930 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-07-12 08:46:58,944 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger          - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-12 08:46:58,962 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+2025-07-12 08:47:05,243 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2025-07-12 08:47:05,245 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 08:47:05,247 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:47:05,260 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-07-12 08:47:05,262 [RMI TCP Connection(4)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:47:48,768 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.11 with PID 16016 (C:\SBMS\workspace\16_LOGGING_JRTP28\target\classes started by DHANUNJAY in C:\SBMS\workspace\16_LOGGING_JRTP28)
+2025-07-12 08:47:48,771 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 08:47:48,809 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-12 08:47:48,810 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-12 08:47:49,546 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 9090 (http)
+2025-07-12 08:47:49,555 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:47:49,557 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2025-07-12 08:47:49,557 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-07-12 08:47:49,600 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2025-07-12 08:47:49,600 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 790 ms
+2025-07-12 08:47:49,900 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2025-07-12 08:47:49,913 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:47:49,933 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 9090 (http) with context path '/'
+2025-07-12 08:47:49,941 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 1.487 seconds (process running for 2.13)
+2025-07-12 08:47:57,988 [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-12 08:47:57,988 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2025-07-12 08:47:57,989 [http-nio-9090-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 0 ms
+2025-07-12 08:47:58,012 [http-nio-9090-exec-1] INFO  in.ashokit.ContactRestController                   - logger exceution started
+2025-07-12 08:47:58,012 [http-nio-9090-exec-1] INFO  in.ashokit.ContactRestController                   - logger exceution ended
+2025-07-12 08:48:14,473 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2025-07-12 08:48:14,475 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-12 08:48:14,476 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9090"]
+2025-07-12 08:48:14,496 [tomcat-shutdown] INFO  o.s.b.w.embedded.tomcat.GracefulShutdown           - Graceful shutdown complete
+2025-07-12 08:48:14,496 [RMI TCP Connection(2)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
